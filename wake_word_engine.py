@@ -36,4 +36,4 @@ def start_wake_word():
             print("🔥 WAKE ENGINE STARTED")
 
             # ACTION
-            webbrowser.open("http://127.0.0.1:10000")
+            webbrowser.open("http://127.0.0.1:1490")

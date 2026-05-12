@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import webbrowser
 
-ARIS_URL = "http://127.0.0.1:7000"
+ARIS_URL = "http://127.0.0.1:1490"
 
 recognizer = sr.Recognizer()
 mic = sr.Microphone()
